@@ -66,3 +66,5 @@ traitlets==5.11.2
 typing-extensions==4.8.0
 urllib3==2.0.6
 wcwidth==0.2.8
+# The following packages are considered to be unsafe in a requirements file:
+setuptools==68.2.2
