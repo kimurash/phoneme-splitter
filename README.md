@@ -1,3 +1,3 @@
-# split-vowel
+# split_phoneme
 
-Describe your project here.
+Juliusの音素セグメンテーションkitを利用してwavファイルを分割するスクリプト
